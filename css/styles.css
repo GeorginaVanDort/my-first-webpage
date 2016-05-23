@@ -1,6 +1,13 @@
+body {
+  background: lightslategrey;
+}
+
 h1 {
   color: #f00;
   text-align: center;
+  background: darkslategrey;
+  margin: auto;
+  font-size: 100px;
 }
 
 h2 {
@@ -10,6 +17,14 @@ h2 {
 
 p {
   font-family: sans-serif;
+}
+
+li {
+  font-family: cursive;
+}
+
+a {
+  text-decoration: none;
 }
 
 ul {
