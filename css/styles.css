@@ -22,3 +22,12 @@ ol li {
   font-weight: bold;
   list-style: none;
 }
+
+img {
+  height: 600px;
+  width: auto;
+}
+
+.kimchee {
+  width: 650px;
+}
